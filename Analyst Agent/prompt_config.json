@@ -1,0 +1,5 @@
+{
+  "quality_prompt": "Use the check_quality tool to evaluate the dataset using the provided configuration. Return only the tool call.",
+  "clean_prompt": "Use the clean_dataset tool to clean the dataset according to the configuration. Return only the tool call.",
+  "preprocess_prompt": "Use the preprocess_dataset tool to preprocess the dataset according to the configuration. Return only the tool call."
+}

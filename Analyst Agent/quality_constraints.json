@@ -1,0 +1,10 @@
+{
+  "required_columns": [],
+  "max_missing_per_column": 0.15,
+  "min_rows": 20,
+  "allowed_ranges": {
+    "age": [0, 120],
+    "income": [0, 2000000]
+  },
+  "normalize_numeric": true
+}
