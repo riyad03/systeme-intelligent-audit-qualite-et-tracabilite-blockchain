@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+langchain
+langchain-openai
+langgraph
+python-dotenv
+requests
+reportlab
